@@ -11,7 +11,6 @@ https://api.XXXXXXXX.com/api/OP_API_XXXXXXX_XXX/overview
 data-platform-organization-sql には、sqlの設定ファイルとして、以下のファイルが含まれています。  
 
 * data-platform-organization-sql-organization-data.sql（データ連携基盤 組織 - 組織データ）
-* data-platform-organization-sql-organization-text-data.sql（データ連携基盤 組織 - 組織テキストデータ）  
 
 ## MySQLのセットアップ / Kubernetesの設定 / SQLテーブルの作成方法
 
